@@ -6,8 +6,7 @@
 **Tech Stack:**  
 - **Backend:** PostgreSQL, Node.js, TypeScript, Docker, GitHub, Express, CI/CD, Python, AI-powered Optimization, Redis  
 - **Frontend:** React.js, Material UI, Tailwind CSS, ShadCN, CI/CD, GitHub  
-**Live Demo:** [🔗 Add link if available]  
-**GitHub Repo:** [🔗 Add link if applicable]  
+**Live Demo:** [🔗 [Oware](https://oware.co/)]  
 
 ---
 
@@ -68,12 +67,6 @@ This platform enables **businesses, warehouse operators, and logistics teams** t
 📈 **Improved order fulfillment rate by 50%**, reducing delays  
 ⚡ **CI/CD pipelines minimized downtime**, ensuring a 99.9% uptime  
 📊 **Real-time dashboards provided key insights** for better decision-making  
-
----
-
-## 📷 Screenshots / Demo
-
-📌 **[Add Screenshots, GIFs, or a Video Demo of Oware]**  
 
 ---
 
